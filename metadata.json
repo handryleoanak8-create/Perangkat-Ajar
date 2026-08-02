@@ -1,0 +1,6 @@
+{
+  "name": "Generator RPM Kurikulum Merdeka",
+  "description": "Generator Rencana Pembelajaran Mendalam (RPM) Kurikulum Merdeka berbasis AI Gemini dengan fitur cetak F4 dan unduh Word (.doc).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
